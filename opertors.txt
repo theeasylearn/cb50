@@ -39,7 +39,8 @@ relational operators/ comparison
 logical operators.
     logical operators are used to combine two or more relational expressions. there are 3 logical operators
          for example 
-         a < b b > c 
+         (1)   (2)
+         a < b logical-operator b > c 
         1) and operator (&&)
             and operators check both relational expressions. if both expressions are true(1) it return true(1) otherwise it return false(0)
         2) or operator (||)
@@ -48,6 +49,7 @@ logical operators.
             not operator reverse result of any relational expressions. if relational is true it returns false. if relational expressions false it return true
 
 assignment operators
+-------------------------------------------------------------------------
     assignment operators are used to write down any mathematical expressions in shorter way. 
 
     assignment operators 
