@@ -61,19 +61,26 @@ assignment operators
     %= can be as a%=b when we need write a = a % b
 
     unary operator
+
         1 operands and 1 operator
         a++  can be write as a = a + 1 (postfix)
             first assign and then increment 
         ++a can be write as a = a + 1 (prefix)
             first in increment then assign
-    a = 10
-    b = a++ b = 10 and a = 11
-    
-    b = a 
-    a = a + 1
-
     a = 10 
-    //b= ++a b = 11 and a = 11
+    b = 0 
+
+    b = a  // 10 
+    a= a + 1 // 11
+
+    OR 
+    b = a++ (postfix )
     
-    a = a + 1;
-    b = a;
+    a = 10 
+    b = 0 
+
+    a = a + 1 
+    b = a 
+
+    OR 
+    b = ++a
