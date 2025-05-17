@@ -19,7 +19,10 @@ if decision statements
 
 4) write a program to calculate bmi and display obesity level of person from given height
     (foot and inch) and weight.
+    refer below link for rules 
+    https://blk-pediatric-practice.com/wp-content/uploads/2021/06/obesity-title-image.jpg
 
+    
 5) write a program to accept month number from user and display name of the month (switch statements)
 
 6) write a program to check whether given year is leap year or not. (nested)
