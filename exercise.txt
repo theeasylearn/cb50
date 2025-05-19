@@ -23,7 +23,9 @@ if decision statements
     https://blk-pediatric-practice.com/wp-content/uploads/2021/06/obesity-title-image.jpg
 
     
-5) write a program to accept month number from user and display name of the month (switch statements)
+5) write a program to accept day number from user and display name of the day (switch statements)
+
+
 
 6) write a program to check whether given year is leap year or not. (nested)
 
