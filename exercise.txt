@@ -25,9 +25,7 @@ if decision statements
     
 5) write a program to accept day number from user and display name of the day (switch statements)
 
-
-
-6) write a program to check whether given year is leap year or not. (nested)
+6) write a program to findout largest number from 3 given number. (nested decision making)
 
 8) write a program to accept birth date and month from user. decide zodiac sign from below table 
 Aries: March 21–April 19
