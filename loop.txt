@@ -23,3 +23,57 @@ there are 2 types of loop
         // code block will execute if condition is true 
     }
 
+
+2) for loop 
+----------------------------------------------
+like while loop, for loop is also entry control loop. means here also condition is checked before loop execute, if condition is true code block given {} pair will execute. but for loop is different from while loop in way that, we give initial value to variable, condition and increment/decrement in single line. 
+syntax
+for(initialization;condition;increment/decrement)
+{
+    //body of loop 
+}
+1st time, initialization is done and then condition is checked
+2nd time onwards, 1st increment/decrement happens and then condition is checked
+example
+for(;;)
+{
+    //code 
+}
+
+3) do while loop 
+  --------------------------------------
+  do while loop is exit control loop. do while always execute at least once. then condition is checked. if condition is true loop body will execute again and so on. 
+  syntax 
+  do 
+  {
+
+  }while(relational expression);  
+  example 
+  //100 90 80 70 60 .... 10
+  count = 100;
+  do 
+  {
+     printf("%d",count); //80
+     count=count - 10; //70
+  }while(count>=10); //0>=10
+printf("\n good bye");
+
+nested loop 
+    when we use any loop inside any other loop, it is nested loop. we can use for loop inside while loop, or while loop inside for loop. we can use do while inside for/while loop or vice versa. 
+
+    example 
+    int i = 1, j= 1;
+    while(i<=5) //outer loop 
+    {
+        printf("%5d",i);
+        i = i + 1;
+        printf("(");
+        //inner while loop start
+        j=1;
+        while(j<=3) //inner while loop 
+        {
+            printf("%2d",j);
+            j = j + 1;
+        }
+        printf(")");
+    }
