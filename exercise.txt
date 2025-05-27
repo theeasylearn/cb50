@@ -76,8 +76,29 @@ loop
 16) write a program to findout whether given number is composite or not 
 17) write a program to findout whether given number is perfect or not 
 18) write a program to findout whether given number is Abundant Numbers or not 
-19) write a program to findout whether given number is Deficient  Numbers or not 
-20) write a program to findout whether given number is Armstrong   Numbers or not 
-21) write a program to findout whether given number is Harshad    Numbers or not 
-22) write a program to findout whether given number is Palindromic     Numbers or not 
-23) write a program to findout whether given number is Co-prime      Numbers or not 
+19) write a program to findout whether given number is Deficient Numbers or not 
+20) write a program to findout whether given number is Armstrong  Numbers or not 
+21) write a program to findout whether given number is Harshad   Numbers or not 
+22) write a program to findout whether given number is Palindromic  Numbers or not 
+23) write a program to findout whether given number is Co-prime Numbers or not 
+
+nested loop 
+-----------------
+5 4 3 2 1 
+5 4 3 2 
+5 4 3
+5 4
+5
+
+1
+0 1
+0 1 0
+1 0 1 0
+1 0 1 0 1
+
+1 0 1 0 1
+ 1 0 1 0
+  1 0 1
+   1 0
+    1 
+
