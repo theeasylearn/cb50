@@ -73,3 +73,11 @@ loop
     input : 12345
     output : 54321
 
+16) write a program to findout whether given number is composite or not 
+17) write a program to findout whether given number is perfect or not 
+18) write a program to findout whether given number is Abundant Numbers or not 
+19) write a program to findout whether given number is Deficient  Numbers or not 
+20) write a program to findout whether given number is Armstrong   Numbers or not 
+21) write a program to findout whether given number is Harshad    Numbers or not 
+22) write a program to findout whether given number is Palindromic     Numbers or not 
+23) write a program to findout whether given number is Co-prime      Numbers or not 
