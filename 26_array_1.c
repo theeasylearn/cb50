@@ -15,5 +15,4 @@ void main()
     {
         printf("%d person age = %d \n",position+1,age[position]);
     }
-    
 }

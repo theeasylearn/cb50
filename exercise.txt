@@ -102,3 +102,10 @@ nested loop
    1 0
     1 
 
+array
+-------------------
+1) count no of odd and even value into integer array 
+
+2) findout minimum value into float array 
+3) findout maximum value into long array 
+
