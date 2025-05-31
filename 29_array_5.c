@@ -1,4 +1,4 @@
-/*  write a program to sort array
+/*  write a program to sort descending array
     (0,1) (0,2), (0,3), (0,4)
     (1,2) (1,3) (1,4)
     (2,3) (2,4)
@@ -14,7 +14,7 @@ void main()
     {
         for (i = j + 1; i <= 4; i++)
         {
-            if (total[j] > total[i])
+            if (total[j] < total[i])
             {
                 temp = total[j]; // 350
                 total[j] = total[i];

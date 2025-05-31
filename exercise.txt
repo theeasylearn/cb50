@@ -109,3 +109,4 @@ array
 2) findout minimum value into float array 
 3) findout maximum value into long array 
 
+4) write a program to make sum of two integer array into 3rd array 

@@ -1,4 +1,4 @@
-/* write a program to findout given value in array, if value found display it's position else display value not found
+/* write a program to findout given value in unsorted array, if value found display it's position else display value not found
 sequential search 
     steps
     ---------------------------------
