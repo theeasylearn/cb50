@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.js": "javascriptreact",
-        "ctype.h": "c"
-    }
-}

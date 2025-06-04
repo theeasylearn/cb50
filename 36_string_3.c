@@ -41,4 +41,5 @@ void main()
     reverse[start] = '\0';
     printf("line = %s", line);
     printf("\n reverse = %s", reverse);
+    
 }
