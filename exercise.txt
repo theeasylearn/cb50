@@ -116,4 +116,9 @@ string
 write a program to count consonant and digits in given string and also count total letters(everything).
 
 
+2d array
+-----------------------------------
+write a program to findout minimum and maximum from 2d array 
+write a program display transpose of matrix 
+
 
