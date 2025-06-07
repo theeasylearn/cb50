@@ -3,7 +3,7 @@
 // define structure
 struct student
 {
-    char name[32];
+    char name[32]; //array within structure
     float weight;
     int age;
     char gender;
