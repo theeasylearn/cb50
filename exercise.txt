@@ -122,3 +122,12 @@ write a program to findout minimum and maximum from 2d array
 write a program display transpose of matrix 
 
 
+function
+-------------------------
+1) write a program that will display current date using without return value without argument function.
+
+2) write a program that will display current time using without return value without argument function.
+
+3) write a program that will calculate & display simple interest using without return value with argument function 
+
+4)

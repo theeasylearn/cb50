@@ -17,9 +17,9 @@ What is functions?
             function developed by developer(user) is called user defined function.
             there are 4 types of U.D.F.
                 1   without return value without argument function 
+                2   without return value with argument function 
                 2   with return value without argument function 
                 3   with return value with argument function 
-                4   without return value with argument function 
         how to create function 
 
         syntax 
