@@ -21,7 +21,7 @@ void main()
 {
     // run/call/execute function printline
     printline();
-    printf("the easylearn academy");
+    printf("The Easylearn Academy");
     printline();
     printletter('#', 100);
     printletter('@',40);
