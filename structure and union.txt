@@ -10,7 +10,6 @@ struct structure-name {
     datatype name;
     .............
 };
-
 struct student 
 {
     char name[32];
@@ -19,11 +18,9 @@ struct student
     char gender;
 };
 variable declared inside structure is called member variable.
-
 how to declare structure type variable
 struct structure-name variable-name;
 struct student s1;
-
 how to take input inside structure member?
 scanf("%d",&s1.age);
 scanf("%f",&s1.weight);
