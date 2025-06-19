@@ -130,4 +130,12 @@ function
 
 3) write a program that will calculate & display simple interest using without return value with argument function 
 
-4)
+structure 
+--------------
+write a program to create array of structure to store product. 5 product detail 
+Name 
+Price 
+Weight 
+price per gram 
+
+display 
